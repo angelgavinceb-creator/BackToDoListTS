@@ -1,0 +1,56 @@
+Formato para fechas con date:
+2026-03-03
+
+
+
+
+Local casa:
+
+{
+  "email": "angel",
+  "password": "passwordAngel"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjk5MWY3YTAxNWZlYTM3NWM5ZTNmNTQ3IiwiZW1haWwiOiJhbmdlbCJ9LCJpYXQiOjE3NzE1MDM5ODEsImV4cCI6MTc3MTU5MDM4MX0.ozJiEOBhFG4oSExXnCSqE2U4iKRQbZ-99aeOuYQgDh4
+
+
+Formato postman:
+{
+    "tarea": {
+        "texto": "Compar pan",
+        "prioridad": "ALTA",
+        "fechaCreacion": "17-2-1016",
+        "fechaFin": "20-2-2026",
+        "estado": "PENDIENTE",
+        "users": []
+    }
+}
+
+
+Formato directo front
+{
+    "texto": "Compar pan",
+    "prioridad": "ALTA",
+    "fechaCreacion": "17-2-1016",
+    "fechaFin": "20-2-2026",
+    "estado": "PENDIENTE",
+    "users": []
+}
+
+Atlas clase:
+
+{
+    "email": "Angel",
+    "password": "passwordAngel"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjk5MmZlMmI4ZDBiOWZiOWUxNjYxZDdhIiwiZW1haWwiOiJBbmdlbCJ9LCJpYXQiOjE3NzEzMjc2ODIsImV4cCI6MTc3MTQxNDA4Mn0.XBxg0r8uMF6K08YgNZutp4_VfuNwZGwDeQ-OLmAUnmg
+
+{
+    "tarea": {
+        "texto": "Compar pan",
+        "prioridad": "ALTA",
+        "fechaCreacion": "17-2-1016",
+        "fechaFin": "20-2-2026",
+        "estado": "PENDIENTE",
+        "users": []
+    }
+}
